@@ -1,13 +1,13 @@
 ---
 layout: post
-title:African Short Stories
+title: African Short Stories
 ---
-<h1>African short stories</h1>
+African short stories
+=====================
 
-<p>First website task give during our precourse work.This comprised of a collection of ten examples of various African short stories.</p>
+First website task give during our precourse work.This comprised of a collection of ten examples of various African short stories.
 
-<p>This was a basic introduction into learning the basic Html and Css</p>
+This was a basic introduction into learning the basic Html and Css.
+Commiting the tasks on github and bitballoon, giving the website an url.
 
-<p>Commiting the tasks on github and bitballoon, giving the website an url</p>
-
-url bit balloon cahndrew.bitballoon.com
+A [link](cahndrew2.bitballoon.com)

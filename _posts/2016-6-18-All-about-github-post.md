@@ -3,12 +3,17 @@ layout: post
 posts: Github
 ---
 
-<h1>All about Github</h1>
+All about Github
+================
 
-<p>Why use something like Git? Say you and a coworker are both updating pages on the same website. You make your changes, save them, and upload them back to the website. So far, so good. The problem comes when your coworker is working on the same page as you at the same time. One of you is about to have your work overwritten and erased.<p>
+ Github
+ ------
 
-<h2>Words People Use When They Talk About Git</h2>
-<p>In this tutorial, there are a few words I’m going to use repeatedly, none of which I’d heard before I started learning. Here’s the big ones<p>
+Why use something like Git? Say you and a coworker are both updating pages on the same website. You make your changes, save them, and upload them back to the website. So far, so good. The problem comes when your coworker is working on the same page as you at the same time. One of you is about to have your work overwritten and erased.
+
+### Words People Use When They Talk About Git
+In this tutorial, there are a few words I’m going to use repeatedly, none of which I’d heard before I started learning.
+ Here’s the big ones:
 
 1. Command Line: The computer program we use to input Git commands. On a Mac, it’s called Terminal. On a PC, it’s a non-native program that you download when you download Git for the first time (we’ll do that in the next section). In both cases, you type text-based commands, known as prompts, into the screen, instead of using a mouse.
 
@@ -44,4 +49,3 @@ Since Git was designed with a big project like Linux in mind, there are a lot of
 10. git push: If you’re working on your local computer, and want your commits to be visible online on GitHub as well, you “push” the changes up to GitHub with this command.
 
 11. git pull: If you’re working on your local computer and want the most up-to-date version of your repository to work with, you “pull” the changes down from GitHub with this command.
-
