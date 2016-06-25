@@ -3,7 +3,6 @@ layout: post
 posts: Github commits part 1
 ---
 
-### Pushing Github Commits
 
 Before we can proceed with pushing commits we have to understand the basic commands and titles we use on git.
 
