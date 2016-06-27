@@ -4,6 +4,7 @@ posts: Github commits part 1
 ---
 
 
+
 Before we can proceed with pushing commits we have to understand the basic commands and titles we use on git.
 
 1. Commit - committing is the process which records changes in the repository. Think of it as a snapshot of the current status of the project. Commits are done locally.

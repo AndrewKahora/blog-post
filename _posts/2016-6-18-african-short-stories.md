@@ -2,8 +2,7 @@
 layout: post
 title: African Short Stories
 ---
-African short stories
-=====================
+
 
 First website task give during our precourse work.This comprised of a collection of ten examples of various African short stories.
 

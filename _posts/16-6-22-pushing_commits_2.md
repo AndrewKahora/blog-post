@@ -3,9 +3,6 @@ layout: post
 posts: Github commits part 2
 ---
 
-Pushing Github Commits 2
-========================
-
 commiting
 ---------
 

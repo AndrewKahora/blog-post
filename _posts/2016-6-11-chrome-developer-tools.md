@@ -2,8 +2,7 @@
 layout: post
 title: Chrome developer tools (WEEK 1)
 ---
-Chrome developer tools
-======================
+
 
 ### TML and the DOM
 

@@ -3,9 +3,6 @@ layout: post
 posts: Github
 ---
 
-All about Github
-================
-
  Github
  ------
 
