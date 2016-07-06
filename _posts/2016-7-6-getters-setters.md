@@ -9,12 +9,10 @@ Getters and setters in java structures
  What are getters and setters?
   This are private attributes that occur under Encapsulation that hide the data attributes and prevent incorrect modification. In practice, it's actually quite simple.
 
-  Getters
-  -------
+  Getters:
  This returns the current value of an attribute to an external class.
 
-  Setters
-  -------
+  Setters:
  This will allow an external class to change the value of an attribute.
 
 
