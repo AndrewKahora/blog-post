@@ -17,6 +17,8 @@ Getters and setters in java structures
 
 
 ~~~ java
+
+
 package javaapplication1.get.and.set;
 
 /**
