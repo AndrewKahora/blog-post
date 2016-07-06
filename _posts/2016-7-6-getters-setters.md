@@ -55,5 +55,3 @@ public class JavaApplication1GetAndSet {
         this.age = age;
     }
   }
-
-  ~~~  
